@@ -5,9 +5,9 @@ This repo is dedicated to a module CS211 Algorithms & Data Structures 2 which I 
 Each week a certain topic is discussed and an individual assignment is given.
 
 The overview of this module can be summarized as followed:
-- 03 week Recursion - [Recursion](https://github.com/tmshts/dsa/tree/main/03_week)
-- 04 week Merge Sort - [Merge Sort](https://github.com/tmshts/dsa/tree/main/04_week)
-- 05 week Linked Lists - [Linked Lists](https://github.com/tmshts/dsa/tree/main/05_week)
+- 03 week - [Recursion](https://github.com/tmshts/dsa/tree/main/03_week)
+- 04 week - [Merge Sort](https://github.com/tmshts/dsa/tree/main/04_week)
+- 05 week - [Linked Lists](https://github.com/tmshts/dsa/tree/main/05_week)
 - Fundamentals and implementation of Binary Search Trees;
 - Balancing Binary Search Trees;
 - Tree traversals (depth and breadth-first);

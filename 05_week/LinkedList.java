@@ -22,6 +22,11 @@ public class LinkedList {
             newLink.next = first;
             first = newLink;
         }
+
+        // Input: Maynooth is great! -> Output: Maynooth is great!
+        // Link newLink = new Link(input);
+        // newLink.next = first;
+        // above two lines put at the end
     }
 
     public static void display() {

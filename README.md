@@ -8,7 +8,7 @@ The overview of this module can be summarized as followed:
 - 03 week - [Recursion](https://github.com/tmshts/dsa/tree/main/03_week)
 - 04 week - [Merge Sort](https://github.com/tmshts/dsa/tree/main/04_week)
 - 05 week - [Linked Lists](https://github.com/tmshts/dsa/tree/main/05_week)
-- 04 week - [Fundamentals and implementation of Binary Search Trees](https://github.com/tmshts/dsa/tree/main/06_week)
+- 06 week - [Fundamentals and implementation of Binary Search Trees](https://github.com/tmshts/dsa/tree/main/06_week)
 - Balancing Binary Search Trees;
 - Tree traversals (depth and breadth-first);
 - Graph representations;

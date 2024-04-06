@@ -17,4 +17,4 @@ The overview of this module can be summarized as followed:
 - Algorithm strategies: brute force, greedy, divide and conquer and backtracking algorithms;
 - Selected advanced topics in Algorithms and Data Structures.
 
-More information related to the module can be found [here](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS211&YEAR=2024).
+More information related to the module can be found [here](https://www.maynoothuniversity.ie/node/544608).

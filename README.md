@@ -2,7 +2,7 @@
 
 This repo is dedicated to a module CS211 Algorithms & Data Structures 2 which I took during my Exchange semester 2024 at the Maynooth University in Ireland.
 
-Each week a certain topic is discussed and an individual assignment is given.
+Each week is discussed a certain topic and an individual assignment is given.
 
 The overview of this module can be summarized as followed:
 - 03 week - [Recursion](https://github.com/tmshts/dsa/tree/main/03_week)

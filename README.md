@@ -10,7 +10,7 @@ The overview of this module can be summarized as followed:
 - 05 week - [Linked Lists](https://github.com/tmshts/dsa/tree/main/05_week)
 - 06 week - [Binary Search Tree - inserting, traversing, depth](https://github.com/tmshts/dsa/tree/main/06_week)
 - 07 week - [Monte Carlo - for loops](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/07_week)
-- 08 week - [Binary Search Tree - inserting, traversing, depth, searching][https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/08_week]
+- 08 week - [Binary Search Tree - inserting, traversing, depth, searching](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/08_week)
 - Balancing Binary Search Trees;
 - Tree traversals (depth and breadth-first);
 - Graph representations;

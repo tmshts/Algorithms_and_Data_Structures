@@ -12,7 +12,8 @@ The overview of this module can be summarized as followed:
 - 07 week - [Monte Carlo - for loops](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/07_week)
 - 08 week - [Binary Search Tree - inserting, traversing, depth, searching](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/08_week)
 - 09 week - [Data Compression - Huffman’s Algorithm](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/09_week)
-- Graph representations;
+- 10 week - [QuickSort](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/10_week)
+- 11 week - [Weighted Graphs](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/11_week)
 - Hash Tables;
 - Algorithm analysis: upper and average complexity bounds, best, average and worst case algorithm behaviour;
 - Algorithm strategies: brute force, greedy, divide and conquer and backtracking algorithms;

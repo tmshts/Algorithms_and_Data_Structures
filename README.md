@@ -14,9 +14,6 @@ The overview of this module can be summarized as followed:
 - 09 week - [Data Compression - Huffman’s Algorithm](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/09_week)
 - 10 week - [QuickSort](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/10_week)
 - 11 week - [Weighted Graphs](https://github.com/tmshts/Algorithms_and_Data_Structures/tree/main/11_week)
-- Hash Tables;
-- Algorithm analysis: upper and average complexity bounds, best, average and worst case algorithm behaviour;
-- Algorithm strategies: brute force, greedy, divide and conquer and backtracking algorithms;
-- Selected advanced topics in Algorithms and Data Structures.
+
 
 More information related to the module can be found [here](https://www.maynoothuniversity.ie/node/544608).
